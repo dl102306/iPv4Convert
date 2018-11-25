@@ -3,7 +3,7 @@ function ipv4Convert(ipv) {
   const masks = [];
   const len = ipv.length + 1;
   let value = '';
-  let gittest = 'master-str';
+  let gittest = 'confilct1';
 
   ipv = ipv + '.';
   for (let i = 0; i < len; i++) {
